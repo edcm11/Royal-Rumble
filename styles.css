@@ -6,8 +6,16 @@ section{
   flex-direction: column;
 }
 
+canvas{
+  background: whitesmoke;
+}
+
 body{
   margin: 0;
   padding: 0;
-  background: lightseagreen;
+  background: darkred;
+}
+
+img{
+  width: 300px
 }
