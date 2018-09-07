@@ -4,16 +4,19 @@ section{
   align-items: center;
   height: 100vh;
   flex-direction: column;
+
 }
 
 canvas{
-  background: whitesmoke;
+  background-image: url('./Imagenes/rail.jpg');
 }
 
 body{
   margin: 0;
   padding: 0;
-  background: darkred;
+  background-image: url("./Imagenes/Gotham_skyline1.jpg");
+  background-size: cover;
+
 }
 
 img{
