@@ -22,6 +22,9 @@ var juego = {
       this.music = new Audio()
       this.music.src = "./Musica/Light_Years_Away.mp3"
       this.music.loop = true
+      this.crowd = new Audio()
+      this.crowd.src = "./Musica/Battle_Intimidation_Loud.mp3"
+      this.music.loop = true
     }
     draw(){ //dibuja la pantalla del juego
         this.x--
@@ -148,6 +151,7 @@ var juego = {
         interval = setInterval(update,1000/60)
         document.getElementById('b').remove()
         board.music.play()
+        board.crowd.play()
     }
     function gameOver(){
         clearInterval(interval)

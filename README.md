@@ -8,7 +8,8 @@ Sidekick consiste en que Batman y el personaje "Sidekick"(que puede ser cualquie
 tienen que inyectar el antidoto a todas estas personas haciendo asi que vuelvan a la realidad y regresen a sus vidas.
 
 Controles:
-con solo tocar a los ciudadanos se activa el antidoto.
+Con solo tocar a los ciudadanos se activa el antidoto.
+Con un solo ciudadano que muera, perdiste.
 
 Jugador1(Batman)
   flechas de navegacion
